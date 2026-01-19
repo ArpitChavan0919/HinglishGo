@@ -1,4 +1,4 @@
-View the website here: http://localhost:5173/
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
